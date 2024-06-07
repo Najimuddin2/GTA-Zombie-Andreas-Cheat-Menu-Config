@@ -10,7 +10,7 @@
 ## GTA III
 ![Screenshot (41)](https://github.com/Najimuddin2/GTA-Zombie-Andreas-Cheat-Menu-Config/assets/100257213/c3a8e85d-a29b-4205-9f37-b5ee63f8e8e0)
 ![Screenshot (42)](https://github.com/Najimuddin2/GTA-Zombie-Andreas-Cheat-Menu-Config/assets/100257213/587daea1-822c-4694-9e1f-5ff1d0b9dc28)
-## Zombie Andreas HL
+## Zombie Andreas HL (other mods)
 https://zolika1351.pages.dev/mods/sahalflife
 ![thumb](https://github.com/Najimuddin2/GTA-Zombie-Andreas-Cheat-Menu-Config/assets/100257213/6579f7e6-7c73-499b-8c65-ba6fbe04c0fd)
 ![screenshot01](https://github.com/Najimuddin2/GTA-Zombie-Andreas-Cheat-Menu-Config/assets/100257213/d3c660a1-a8eb-4244-b97b-c2ebefe14048)
