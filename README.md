@@ -1,5 +1,4 @@
-# GTA-Zombie-Andreas-Cheat-Menu-Config
-This Config is allow to custom vehicle or weapon and peds
+
 # 📸 Screenshot
 ## GTA SA
 ![Screenshot (36)](https://github.com/Najimuddin2/GTA-Zombie-Andreas-Cheat-Menu-Config/assets/100257213/d6ac80d7-780c-436a-ab75-bb909aed6d1b)
